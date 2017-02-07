@@ -1,0 +1,29 @@
+.hero_section_devpoint {
+    background: url("http://www.devpointlabs.com/assets/about/about-ourcampus") center center no-repeat;
+    background-size: cover;
+    padding: 12em 0;
+    text-align: center;
+}
+#goals h2.section_title {
+    font-size: 4em;
+    color: #c15555;
+    margin-top: 1.5em;
+    margin-bottom: .7em;
+    text-align: center;
+}
+#goals img {
+    width: 100%;
+    margin: 3em 0;
+}
+.hero_section_devpoint a {
+    text-decoration: none;
+    color: #fff;
+}
+.hero_section_devpoint a:hover {
+    text-decoration: none;
+    color: #fff;
+}
+#goals p {
+  color: #585858;
+  font-size: 1.2em;
+}
